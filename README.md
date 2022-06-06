@@ -8,9 +8,10 @@ Meu Portfólio de Projetos de Data Science
 </p>
 
 # Matheus Vicente
-<sub>*Mechanical Engineer / Logistics Analyst / Data Enthusiast*</sub>
+<sub>*Mechanical Engineer / Logistics and Supply Chain Analyst / Data Enthusiast*</sub>
 
-Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum LoremIpsum Lorem Ipsum Lorem Ipsum Lorem Ipsum LoremIpsum Lorem Ipsum LoremIpsum Lorem Ipsum Lorem
+Combinando a graduação em engenharia mecânica, com cinco anos de experiência na indústria automotiva, trago uma abordagem analítica para a resolução de problemas, juntamente com a habilidade para trabalhar bem em equipe, especialmente em situações onde o tempo se faz essencial.
+
 
 **Background in:** Python, Engineering, Logistics and Supply Chain Management.
 
