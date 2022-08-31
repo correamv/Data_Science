@@ -10,7 +10,7 @@ Meu Portfólio de Projetos de Data Science
 # Matheus Vicente
 <sub>*Mechanical Engineer / Logistics and Supply Chain Analyst / Data  Enthusiast*</sub>
 
-Combinando a graduação em engenharia mecânica, com cinco anos de experiência na indústria automotiva, e uma paixão por dados e automação, gosto de trazer uma abordagem analítica para a resolução de problemas, juntamente com a habilidade para trabalhar bem em equipe, especialmente em situações onde o tempo se faz essencial.
+Combinando a graduação em engenharia mecânica, com cinco anos de experiência na indústria automotiva, e uma paixão por dados e automação, gosto de trazer uma abordagem analítica para a resolução de problemas.
 
 
 **Background in:** Python, Engineering, Logistics and Supply Chain Management.
