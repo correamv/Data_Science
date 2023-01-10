@@ -1,23 +1,28 @@
 # Data_Science
-Meu Portfólio de Projetos de Data Science
+Notebooks contendo projetos e análises de data science usando python.
 
-[![author](https://img.shields.io/badge/author-correamv-red.svg)](https://www.linkedin.com/in/matheusvicente12/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-correamv-red.svg)](https://www.linkedin.com/in/matheusvicente12/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/correamv/Data_Science/issues)
 
 <p align="center">
   <img src="banner_nome.png" >
 </p>
 
-# Matheus Vicente
-<sub>*Mechanical Engineer / Logistics and Supply Chain Analyst / Data  Enthusiast*</sub>
-
-Combinando a graduação em engenharia mecânica, com cinco anos de experiência na indústria automotiva, e uma paixão por dados e automação, gosto de trazer uma abordagem analítica para a resolução de problemas.
+# Sobre Mim
+<sub>*Mechanical Engineering / Logistics and Supply Chain / Data Science*</sub>
 
 
-**Background in:** Python, Engineering, Logistics and Supply Chain Management.
+Sou graduado em engenharia mecânica pela Univesidade do Estado do Rio de Janeiro (UERJ) e trabalhei por cinco anos dentro da indútria automotiva, passando pelas áres de engenharia de processos e planejamento logístico e de produção.
+
+Desde 2016 sou entusiasta da área de dados e machine learning, quando concluí o curso "Machine Learning" pela Stanford Online.
+
+Atualmente estou cursando o MBA de Data Science & Analytics da Univerisade de São Paulo (USP).
+
+
+**Background in:** Excel, VBA, Power BI, Python, Mechanical Engineering, Logistics and Supply Chain Management.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheusvicente12/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@matheuscorrea12)
 
 
 ## Projetos:
