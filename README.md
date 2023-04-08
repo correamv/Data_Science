@@ -18,7 +18,7 @@ Atualmente estou cursando o MBA de Data Science & Analytics da Univerisade de S�
 **Background in:** Excel, VBA, Power BI, Python, Mechanical Engineering, Logistics and Supply Chain Management.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/matheusvicente12/)
+* [LinkedIn](https://www.linkedin.com/in/mcorrea12/)
 * [Medium](https://medium.com/@matheuscorrea12)
 
 
@@ -27,6 +27,7 @@ Lista de projetos em Jupyter Notebook
 
 * **Análise de dados do Airbnb sobre a cidade de Buenos Aires:** https://bit.ly/3cB9MIj
 * **Panorama da COVID-19 no Brasil:** https://bit.ly/3Sn96FC
+* ** Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3zHSPnr
 
 ---
 
