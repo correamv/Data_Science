@@ -15,7 +15,7 @@ Desde 2016 sou estou inserido da área de dados e machine learning, quando concl
 Atualmente estou cursando o MBA de Data Science & Analytics da Univerisade de São Paulo (USP).
 
 
-**Background in:** Excel, VBA, Power BI, Python, Mechanical Engineering, Logistics and Supply Chain Management.
+**Background in:** Excel, VBA, *Power BI*, Python, Mechanical Engineering, Logistics and Supply Chain Management.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/mcorrea12/)
