@@ -27,7 +27,7 @@ Lista de projetos em Jupyter Notebook
 * [**Análise de dados do Airbnb sobre a cidade de Buenos Aires**](https://bit.ly/3cB9MIj)
 * [**Panorama da COVID-19 no Brasil**](https://bit.ly/3Sn96FC)
 * [**Detecção de Fraude em Cartões de Crédito**](https://bit.ly/3zHSPnr)
-* [**Churn Prediction de uma Empresa de Telecomunicações**](bit.ly/3Y0AzAR)
+* [**Churn Prediction de uma Empresa de Telecomunicações**](https://bit.ly/3Y0AzAR)
 ---
 
 
